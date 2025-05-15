@@ -1,2 +1,2 @@
-# MDSC-102
-Inferential Statistics Assignments
+# Inferential Statistics
+MDSC-102
